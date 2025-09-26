@@ -1,5 +1,5 @@
-# Itinerario del Viaje al Río de la Plata de Ulrico Schmidel
+# Itinerario del Lazarillo de Ciegos Caminantes de Alonso Carrió de la Vandera
 
 
-- Leaflet Map (Julián Spinelli): https://j-spinelli.github.io/ulrico-schmidel-storymap/
+- Leaflet Map : https://hdlab.space/storymapprueba/
 
